@@ -1,6 +1,6 @@
-# Employee Management System with JWT Authentication
+# CrewContent with JWT Authentification
 
-A secure, full-featured Employee Management System built using **Spring Boot 3**, **Spring Security**, and **JWT**, supporting role-based access for `ADMIN` and `USER`. This application enables authenticated users to manage employee records securely through a RESTful API.
+A secure, full-featured CrewContent with JWT Authentification System built using **Spring Boot 3**, **Spring Security**, and **JWT**, supporting role-based access for `ADMIN` and `USER`. This application enables authenticated users to manage employee records securely through a RESTful API.
 
 
 
